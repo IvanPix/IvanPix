@@ -20,12 +20,12 @@
 <br/>
 
 <div align="center">
- <a href="https://github.com/IvanPix/github-readme-stats&theme=dracula">
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IvanPix&theme=dracula" />
- </a> 
- <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanPix&theme=dark" alt="Streak Stats" />
- </a>
-</div>  
-
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> 
+    <img src="https://github-readme-stats-matrix278.vercel.app/api?username=Matrix278&theme=radical&show_icons=true&locale=en" alt="Martin's github stats" />
+  </a>
+  
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=matrix278&theme=dark" alt="Streak Stats" />
+  </a>
+</div>
  
