@@ -19,13 +19,13 @@
 </div>
 <br/>
 
-
-<a href="https://github.com/IvanPix/github-readme-stats&theme=dracula">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IvanPix&theme=dracula" />
-</a>
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanPix&theme=dark" alt="Streak Stats" />
-  </a>
+<div align="center">
+ <a href="https://github.com/IvanPix/github-readme-stats&theme=dracula">
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IvanPix&theme=dracula" />
+ </a> 
+ <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanPix&theme=dark" alt="Streak Stats" />
+ </a>
+</div>  
 
  
