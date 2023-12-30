@@ -19,10 +19,10 @@
 <br/>
 
 
-<a href="https://github.com/ivanribeirodf/github-readme-stats">
+<a href="https://github.com/IvanPix/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IvanPix&theme=dracula" />
 </a>
-<a href="https://github.com/ivanribeirodf/convoychat">
+<a href="https://github.com/IvanPix/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanPix&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
