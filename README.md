@@ -21,7 +21,7 @@
 
 
 <a href="https://github.com/IvanPix/github-readme-stats&theme=dracula">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IvanPix" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IvanPix&theme=dracula" />
 </a>
 
 
